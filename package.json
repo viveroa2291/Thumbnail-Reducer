@@ -1,6 +1,6 @@
 {
   "name": "thumbnail-reducer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "engines": {
     "node": "22.21.0"
@@ -10,6 +10,7 @@
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
     "@testing-library/user-event": "^13.5.0",
+    "lucide-react": "^0.563.0",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
     "react-scripts": "5.0.1",
@@ -39,12 +40,12 @@
       "last 1 safari version"
     ]
   },
-    "devDependencies": {
+  "devDependencies": {
     "@babel/core": "^7.23.9",
     "@babel/plugin-proposal-optional-chaining": "^7.21.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.14.5",
     "@babel/plugin-transform-optional-chaining": "^7.16.5",
     "@babel/preset-env": "^7.23.9",
-    "@babel/preset-react": "^7.16.0",
-    "@babel/plugin-proposal-private-property-in-object": "^7.14.5"
+    "@babel/preset-react": "^7.16.0"
   }
 }
