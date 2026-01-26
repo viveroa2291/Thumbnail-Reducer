@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # Thumbnail-Reducer
-This repository will be for my upcoming SAAS project where my goal is to make it easy for YouTubers to upload their thumbnails by reducing the size of the thumbnails to fit what YouTube requires the size to be. 
-=======
+
+This repository will be for my upcoming SAAS project where my goal is to make it easy for YouTubers to upload their thumbnails by reducing the size of the thumbnails to fit what YouTube requires the size to be.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 9d7d230 (Initial Commit)
+
+> > > > > > > 9d7d230 (Initial Commit)
