@@ -75,8 +75,8 @@ export default function ImageCompressor() {
               <polyline points="21 15 16 10 5 21"></polyline>
             </svg>
           </div>
-          <h1 className="title">Image Compressor</h1>
-          <p className="subtitle">Reduce your images to 2MB or less</p>
+          <h1 className="title">YouTube Thumbnail Compressor</h1>
+          <p className="subtitle">Reduce your image size to 2MB or less</p>
         </div>
 
         <ErrorMessage error={error} />
